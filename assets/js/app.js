@@ -129,7 +129,7 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">About</h6>
               </div>
-              <p class="tag" >Experienced Android Developer and Web Developer with a demonstrated history of working in the computer software industry. Skilled in C, C++,Web Development,Android Development, Firebase,Java, and Management. Strong engineering professional with a Bachelor of Engineering - BE focused in Electronics and Telecommunications Engineering from Barak valley Engineering College. 
+              <p class="tag" >Experienced Android and Web Developer with a demonstrated history of working in the computer software industry.
 
               </p>
              </div>
